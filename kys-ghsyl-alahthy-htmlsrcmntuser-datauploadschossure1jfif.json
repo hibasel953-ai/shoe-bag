@@ -1,0 +1,25 @@
+{
+  "sections": [],
+  "settings": {
+    "page-direction": "ltr",
+    "page-product-id": null,
+    "is-full-width": true,
+    "width": null,
+    "center-elements": false,
+    "background-color": "#FFFFFF",
+    "background-image": null,
+    "background-repeat": "no-repeat",
+    "background-position": "center",
+    "background-size": "cover",
+    "font-family": "Lato",
+    "font-size-desktop": 16,
+    "font-size-mobile": 12,
+    "text-color": "#1a1a1a",
+    "content-alignment": "center",
+    "section-alignment": "center",
+    "margin-top": 0,
+    "margin-right": 0,
+    "margin-bottom": 0,
+    "margin-left": 0
+  }
+}
